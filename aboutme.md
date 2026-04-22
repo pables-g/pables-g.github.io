@@ -4,8 +4,13 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is pables-g. I am a student interested in High-Performance and Distributed Computing, cloud technologies, and software development.
+My name is Pablo Garcia, I am from Madrid and this is my profile. Have a look!
 
-**Education:** Currently studying at university.
+**Education:** 
 
-**Interests:** Cloud Computing, Distributed Systems, Software Development, Biomedicine and Technology.
+- BSc Mathematics @ UCM (2021 - 2025)
+- MSc Health Data Sciene (2025 - 2027)
+
+**Experience:** 
+
+- Data Office @ Generali (2025-present)
