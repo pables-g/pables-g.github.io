@@ -1,5 +1,5 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
-title: My website
+title: Pablo Garcia's website
 author: pables-g
 
 ###############################################
@@ -143,6 +143,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
+future: true
 timezone: "Europe/Madrid"
 markdown: kramdown
 highlighter: rouge
