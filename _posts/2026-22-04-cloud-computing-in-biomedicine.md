@@ -9,10 +9,7 @@ tags: [cloud computing, genomics, bioinformatics, biomedicine]
 
 The rapid growth of next-generation sequencing (NGS) technologies has generated enormous amounts of genomic data, doubling the size of public archives such as the Sequence Read Archive (SRA) every 18 months. Managing, storing, and analyzing these datasets requires large-scale computational resources that go beyond what most research institutions can afford on-premises. Cloud computing — a model whereby users rent computing power and storage from large data centres — has emerged as a compelling solution for the genomics community.
 
-This post reviews the key findings of a landmark article published in *Nature Reviews Genetics* by Ben Langmead and Abhinav Nellore:
-
-> **Langmead, B., & Nellore, A. (2018).** Cloud computing for genomic data analysis and collaboration. *Nature Reviews Genetics*, 19(4), 208–219. [https://doi.org/10.1038/nrg.2017.113](https://doi.org/10.1038/nrg.2017.113) — PMID: 29379135
-
+This post reviews the key findings of a landmark article published in *Nature Reviews Genetics* by Ben Langmead and Abhinav Nellore.
 ## Key Contributions of the Paper
 
 Langmead and Nellore, from Johns Hopkins University and Oregon Health & Science University respectively, provide a comprehensive review of how cloud computing is being used in genomics research and large-scale international collaborations. They identify three core properties of cloud computing that make it especially well-suited for genomics:
